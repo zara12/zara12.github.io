@@ -23,8 +23,8 @@
 	}
 
 	body {
-		line-height: 1;
-	}
+		line-height:
+	}background coler;#ffd2e8
 
 	ol, ul {
 		list-style: none;
@@ -1798,7 +1798,7 @@
 		display: block;
 		border: 0;
 		outline: 0;
-         background; #f7bee0
+        background; #f7bee0;  
 		background: rgba(255, 255, 255, 0.75);
 		width: 100%;
 		border-radius: 0.35em;
